@@ -1,0 +1,2 @@
+# Digital-Image-Proessing
+This course is designed to introduce students about the techniques of digital image processing. It includes the acquisition of digital images, manipulation procedures and further enhance to improve the high quality of image. Different types of manipulation and enhancement techniques will be covered. At the end of the course, students are expected to implement concepts of image processing, generating and manipulating images.
